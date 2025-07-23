@@ -85,7 +85,7 @@ function App() {
       technologies: ['React', 'TailwindCSS'],
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600',
       demo: '#',
-      github: '#'
+      github: 'https://github.com/ElyseRaz/MyPortfolio'
     }
   ];
 
