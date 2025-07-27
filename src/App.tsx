@@ -58,7 +58,7 @@ function App() {
     frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'TailwindCSS'],
     backend: ['C', 'C++', 'C#', 'Java', 'Python', 'PHP'],
     database: ['MySQL', 'PostgreSQL', 'SQLite'],
-    tools: ['Figma', 'Canva', 'Photoshop', 'Git', 'GitHub', 'Excel'],
+    tools: ['Figma', 'Canva', 'Photoshop', 'Git', 'GitHub'],
     office: ['Word', 'PowerPoint', 'Excel']
   };
 
@@ -355,12 +355,12 @@ function App() {
               <div className="space-y-6">
                 <div className="border-l-4 border-emerald-600 dark:border-emerald-400 pl-6">
                   <h4 className="font-semibold text-gray-900 dark:text-white">2024-2025</h4>
-                  <p className="text-emerald-700 dark:text-emerald-300 font-medium">Deuxième année de Licence à L'Ecole Nationale de l'Informatique Fianarantsoa</p>
+                  <p className="text-emerald-700 dark:text-emerald-300 font-medium">Deuxième année de Licence à L'Ecole Nationale d'Informatique Fianarantsoa</p>
                   <p className="text-gray-600 dark:text-gray-300">Génie Logiciel et Base de Données</p>
                 </div>
                 <div className="border-l-4 border-emerald-400 dark:border-emerald-300 pl-6">
                   <h4 className="font-semibold text-gray-900 dark:text-white">2023-2024</h4>
-                  <p className="text-emerald-700 dark:text-emerald-300 font-medium">1ère Année de Licence  à L'Ecole Nationale de l'Informatique Fianarantsoa</p>
+                  <p className="text-emerald-700 dark:text-emerald-300 font-medium">1ère Année de Licence  à L'Ecole Nationale d'Informatique Fianarantsoa</p>
                   <p className="text-gray-600 dark:text-gray-300">Génie Logiciel et Base de Données</p>
                 </div>
                 <div className="border-l-4 border-emerald-300 dark:border-emerald-200 pl-6">
