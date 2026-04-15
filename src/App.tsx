@@ -56,7 +56,7 @@ function App() {
 
   const skills = {
     frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'TailwindCSS'],
-    backend: ['C', 'C++', 'C#', 'Java', 'Python', 'PHP'],
+    backend: ['C', 'C++', 'C#', 'Java', 'Python', 'PHP', 'Node JS'],
     database: ['MySQL', 'PostgreSQL', 'SQLite'],
     tools: ['Figma', 'Canva', 'Photoshop', 'Git', 'GitHub'],
     office: ['Word', 'PowerPoint', 'Excel']
@@ -353,6 +353,11 @@ function App() {
                 <h3 className="text-2xl font-bold text-gray-900 dark:text-white">Éducation</h3>
               </div>
               <div className="space-y-6">
+              <div className="border-l-4 border-emerald-600 dark:border-emerald-400 pl-6">
+                  <h4 className="font-semibold text-gray-900 dark:text-white">2025-2026</h4>
+                  <p className="text-emerald-700 dark:text-emerald-300 font-medium">Troisième année de Licence à L'Ecole Nationale d'Informatique Fianarantsoa</p>
+                  <p className="text-gray-600 dark:text-gray-300">Génie Logiciel et Base de Données</p>
+                </div>
                 <div className="border-l-4 border-emerald-600 dark:border-emerald-400 pl-6">
                   <h4 className="font-semibold text-gray-900 dark:text-white">2024-2025</h4>
                   <p className="text-emerald-700 dark:text-emerald-300 font-medium">Deuxième année de Licence à L'Ecole Nationale d'Informatique Fianarantsoa</p>
@@ -377,6 +382,11 @@ function App() {
                 <h3 className="text-2xl font-bold text-gray-900 dark:text-white">Formations & Expériences</h3>
               </div>
               <div className="space-y-6">
+              <div className="border-l-4 border-amber-600 dark:border-amber-400 pl-6">
+                  <h4 className="font-semibold text-gray-900 dark:text-white">01 Septembre 2025 - 22 Novembre 2025</h4>
+                  <p className="text-amber-700 dark:text-amber-300 font-medium">Conception et Réalisation d' une application web pour la gestion commerciale</p>
+                  <p className="text-gray-600 dark:text-gray-300">Stage chez AGROHELP Consulting</p>
+                </div>
                 <div className="border-l-4 border-amber-600 dark:border-amber-400 pl-6">
                   <h4 className="font-semibold text-gray-900 dark:text-white">26-29 Novembre 2024</h4>
                   <p className="text-amber-700 dark:text-amber-300 font-medium">Formation Java</p>
@@ -576,7 +586,7 @@ function App() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 dark:text-white">Téléphone</h3>
-                  <p className="text-gray-600 dark:text-gray-300">+261 34 65 713 48</p>
+                  <p className="text-gray-600 dark:text-gray-300">+261 38 06 123 12</p>
                 </div>
               </div>
 
@@ -586,7 +596,7 @@ function App() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 dark:text-white">Localisation</h3>
-                  <p className="text-gray-600 dark:text-gray-300">Madagascar</p>
+                  <p className="text-gray-600 dark:text-gray-300">Tambohobe, Fianarantsoa, Madagascar</p>
                 </div>
               </div>
             </div>
